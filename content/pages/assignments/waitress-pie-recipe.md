@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
 title: Waitress Pie Recipe
 uid: 07d26329-8359-919f-abb5-69a41d66b8d9
