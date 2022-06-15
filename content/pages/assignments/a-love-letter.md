@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the instructions for the "A Love Letter" writing
+  assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

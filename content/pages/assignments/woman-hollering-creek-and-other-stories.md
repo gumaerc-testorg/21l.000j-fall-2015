@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains guidelines for the Woman Hollering Creek assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

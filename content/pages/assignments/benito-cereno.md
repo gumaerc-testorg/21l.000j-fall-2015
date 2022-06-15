@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the guidelines for the Benito Cereno assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
