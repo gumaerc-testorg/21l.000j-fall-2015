@@ -1,21 +1,25 @@
 ---
 content_type: page
+description: This section contains guidelines for Essay 3.
+draft: false
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
 title: Essay 3
 uid: bc437984-4b3d-0b9c-897c-1012c467a528
 ---
-
-_Benito Cereno_ or _Woman Hollering Creek_ or _This Is How You Lose Her_
-------------------------------------------------------------------------
+## *Benito Cereno* or *Woman Hollering Creek* or *This Is How You Lose Her*
 
 **To be included in End-of-Semester Portfolio**
 
-This writing prompt is for the final essay of the course, Final Essay 3. You will prepare a project proposal and final essay (750 words, minimum) on one of the following texts: _Benito Cereno_, _Woman Hollering Creek_, or _This Is How You Lose Her_.
+This writing prompt is for the final essay of the course, Final Essay 3. You will prepare a project proposal and final essay (750 words, minimum) on one of the following texts: *Benito Cereno*, *Woman Hollering Creek*, or *This Is How You Lose Her*.
 
-Part of this assignment will require intensive research so, the sooner you select your text and read it then the sooner you can begin organizing your secondary sources and including them into the conversation of your essay. There must be 5 **secondary sources** included in this final essay. Some of which you will quote passages from, others from which you will paraphrase from, or even those that you might only select phrases from. You might include for a secondary source another text for comparative analysis (juxtaposing _Woman Hollering Creek_ and T_his Is How You Lose Her_ thus counts as two sources, or writing about _Benito Cereno_ in parallel to _Beloved_ also counts as two sources). Remember: one literary text must always remain the primary text of your research project.
+Part of this assignment will require intensive research so, the sooner you select your text and read it then the sooner you can begin organizing your secondary sources and including them into the conversation of your essay. There must be 5 **secondary sources** included in this final essay. Some of which you will quote passages from, others from which you will paraphrase from, or even those that you might only select phrases from. You might include for a secondary source another text for comparative analysis (juxtaposing *Woman Hollering Creek* and *This Is How You Lose Her* thus counts as two sources, or writing about *Benito Cereno* in parallel to *Beloved* also counts as two sources). Remember: one literary text must always remain the primary text of your research project.
 
-First, select a primary text: _Benito Cereno_, _Woman Hollering Creek_, or _This Is How You Lose Her_.
+First, select a primary text: *Benito Cereno*, *Woman Hollering Creek*, or *This Is How You Lose Her*.
 
 Second, for the critical sources that you select, think about how you intend to define your project. What is it about your primary text that you are most interested in and excited to examine? (Also, allow your field of study to guide the project, that is, if you see its connection with the literary texts we are reading. For instance, when I teach Walt Whitman, my engineers gravitate towards his language for how the tone sounds scientific – Whitman wrote on the technological advances of the mid to late nineteenth century). This is all to pose a larger question: How will you define the **literary criticism** that you will perform in your writing of that primary text?
 
@@ -23,83 +27,46 @@ Second, for the critical sources that you select, think about how you intend to 
 
 Thus far we have examined several literary approaches in the course of the semester:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Narrator
-{{< tdclose >}}
-{{< tdopen >}}
-(_Gatsby_ and _Waitress_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Gatsby* and *Waitress*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Character
-{{< tdclose >}}
-{{< tdopen >}}
-(_Gatsby_ and _Waitress_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Gatsby* and *Waitress*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Autobiographical
-{{< tdclose >}}
-{{< tdopen >}}
-(_Fun Home_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Fun Home*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 The Archive
-{{< tdclose >}}
-{{< tdopen >}}
-(_Beloved_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Beloved*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 New Historicism
-{{< tdclose >}}
-{{< tdopen >}}
-(_Benito Cereno_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Benito Cereno*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Feminist Analysis
-{{< tdclose >}}
-{{< tdopen >}}
-(_Woman Hollering Creek_)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+(*Woman Hollering Creek*)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Cultural Analysis
-{{< tdclose >}}
-{{< tdopen >}}
-(_This Is How You Lose Her_)
-{{< tdclose >}}
+{{< tdclose >}}{{< tdopen >}}
+(*This Is How You Lose Her*)
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+For the previous writing assignment on *Fun Home* or *Beloved*, I asked that each of you define your project according to the following terms:
 
-{{< tableclose >}}
+- Historical Approach
+- Literary Reading
+- Author & Narrative Strategy
+- Author Project
+- Specific Theme
+- Theoretical Approach
 
-For the previous writing assignment on _Fun Home_ or _Beloved_, I asked that each of you define your project according to the following terms:
-
-*   Historical Approach
-*   Literary Reading
-*   Author & Narrative Strategy
-*   Author Project
-*   Specific Theme
-*   Theoretical Approach
-
-Now, for the final essay, I want to provide you another list. We will talk about this list on session 19, though take a glance at it beforehand. The list is a more **general introduction** to the field of **literary criticism** and its more expansive possibilities. Essentially, for the final essay, you will select one of the forms of criticism below – each actually expands upon the previous list above yet _this list is not as informal_.
+Now, for the final essay, I want to provide you another list. We will talk about this list on session 19, though take a glance at it beforehand. The list is a more **general introduction** to the field of **literary criticism** and its more expansive possibilities. Essentially, for the final essay, you will select one of the forms of criticism below – each actually expands upon the previous list above yet *this list is not as informal*.
 
 **Formalist Criticism**
 
@@ -107,7 +74,7 @@ Intense, close literary reading and step-by-step analysis to understand how vari
 
 **Biographical Criticism**
 
-Understanding an author’s life to then understand more thoroughly the literary text and explicate its layers yet does not let the _life_ of the author distort the _work_
+Understanding an author’s life to then understand more thoroughly the literary text and explicate its layers yet does not let the *life* of the author distort the *work*
 
 **Historical Criticism**
 

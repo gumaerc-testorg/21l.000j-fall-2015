@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains guidelines for the Beloved assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
 title: Beloved
 uid: 3c752c10-457f-888d-545f-d6a30d1002e1

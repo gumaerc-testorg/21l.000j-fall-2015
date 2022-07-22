@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section contains the instructions for the "A Love Letter" writing
+  assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: e63fa954-bf10-a50e-bdc5-d0a749efc0c3
 title: A Love Letter
 uid: 66921d79-d7c4-0841-0ce7-ea08dc4d51de
