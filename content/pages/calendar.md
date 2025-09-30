@@ -90,7 +90,7 @@ Plot
 
 _Waitress_ Pie Recipe assignment due Session 4
 
-_Waitress_ (the musical at [A.R.T.](https://americanrepertorytheater.org/))
+_Waitress_ (the musical at {{% resource_link "74f29634-b70e-452b-94a6-9393ff6381f8" "A.R.T." %}})
 
 Draft of Essay 1 due five days after Session 4
 
@@ -190,7 +190,7 @@ Draft of Essay 2 due Session 11
 _Beloved_
 {{< tdclose >}}
 {{< tdopen >}}
-Library Research Workshop in [Hayden Library](https://libraries.mit.edu/hayden/)
+Library Research Workshop in {{% resource_link "ad2bc1bc-d1af-4745-8113-f469245b2edf" "Hayden Library" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
