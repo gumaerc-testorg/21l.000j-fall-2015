@@ -26,7 +26,7 @@ _Writing ideas_
 *   The _San Dominick_ (as character)
 *   The narrator (as character)
 
-Reading experience for subscribers of {{% resource_link "1bef3a02-29b0-40eb-bb17-29d495c787f7" "_Putnam's Monthly_" %}}
+Reading experience for subscribers of [_Putnam's Monthly_](http://ebooks.library.cornell.edu/p/putn/putn.html)
 
 For _Benito Cereno_ follow the directions below. It appeared in three installations, October, November and December:
 

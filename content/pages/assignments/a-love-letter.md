@@ -34,4 +34,4 @@ Useful vocabulary:
 
 For definitions of “Character” and “Point of View,” see:
 
-Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012, pp. 72–73. ISBN: 9781457606496. \[Preview with {{% resource_link "9e370238-4ede-496d-ba79-644f8a2c0226" "Google Books" %}}\]
+Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012, pp. 72–73. ISBN: 9781457606496. \[Preview with [Google Books](https://books.google.com/books?id=s97fQH3EdloC&lpg=PP1&dq=gardner%20reading%20and%20writing%20about%20literature&pg=PP1#v=onepage&q&f=false)\]
