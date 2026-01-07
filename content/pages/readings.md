@@ -8,19 +8,19 @@ title: Readings
 uid: cc39e9ea-43f3-3f24-e4da-ade692160ca1
 ---
 
-\[FSF\] = Fitzgerald, F. Scott. _The Great Gatsby_. Scribner, 2004. ISBN: 9780743273565. \[Preview with {{% resource_link "cac811ff-aad3-4342-86b4-a0cd7a5c3542" "Google Books" %}}\]
+\[FSF\] = Fitzgerald, F. Scott. _The Great Gatsby_. Scribner, 2004. ISBN: 9780743273565. \[Preview with [Google Books](https://books.google.com/books?id=iXn5U2IzVH0C&lpg=PP1&dq=the%20great%20gatsby&pg=PP1#v=onepage&q&f=false)\]
 
-\[AB\] = Bechdel, Alison. _Fun Home: A Family Tragicomic_. Reprint edition. Mariner Books, 2007. ISBN: 9780618871711. \[Preview with {{% resource_link "d8eef358-ab58-437b-99fe-a93e72818bd5" "Google Books" %}}\]
+\[AB\] = Bechdel, Alison. _Fun Home: A Family Tragicomic_. Reprint edition. Mariner Books, 2007. ISBN: 9780618871711. \[Preview with [Google Books](https://books.google.com/books?id=eq0n9Ck79ysC&lpg=PP3&dq=fun%20home&pg=PP3#v=onepage&q&f=false)\]
 
 \[TM\] = Morrison, Toni. _Beloved_. Reprint edition. Vintage, 2004. ISBN: 9781400033416.
 
 \[SC\] = Cisneros, Sandra. _Woman Hollering Creek: And Other Stories_. Vintage, 1992. ISBN: 9780679738565.
 
-\[JD\] = Díaz, Junot. _This Is How You Lose Her_. Reprint edition. Riverhead Books, 2013. ISBN: 9781594631771. \[Preview with {{% resource_link "d09c8402-8eba-4ddc-a887-6e9c47e1cf44" "Google Books" %}}\]
+\[JD\] = Díaz, Junot. _This Is How You Lose Her_. Reprint edition. Riverhead Books, 2013. ISBN: 9781594631771. \[Preview with [Google Books](https://books.google.com/books?id=xyG9uXBd_zgC&lpg=PP1&dq=this%20is%20how%20you%20lose%20her&pg=PP1#v=onepage&q&f=false)\]
 
-\[JH\] = Harris, Joseph. _Rewriting: How To Do Things with Texts_. Utah State University Press, 2006. ISBN: 9780874216424. \[Preview with {{% resource_link "75cede10-595d-42e6-891f-ad91dbdf0d62" "Google Books" %}}\]
+\[JH\] = Harris, Joseph. _Rewriting: How To Do Things with Texts_. Utah State University Press, 2006. ISBN: 9780874216424. \[Preview with [Google Books](https://books.google.com/books?id=-8y9AwAAQBAJ&lpg=PP1&dq=how%20to%20do%20things%20with%20texts&pg=PP1#v=onepage&q&f=false)\]
 
-Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012. ISBN: 9781457606496. \[Preview with {{% resource_link "9e370238-4ede-496d-ba79-644f8a2c0226" "Google Books" %}}\]
+Gardner, Janet E. _Reading and Writing About Literature: A Portable Guide_. 3rd edition. Bedford/St. Martin's, 2012. ISBN: 9781457606496. \[Preview with [Google Books](https://books.google.com/books?id=s97fQH3EdloC&lpg=PP1&dq=gardner%20reading%20and%20writing%20about%20literature&pg=PP1#v=onepage&q&f=false)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -328,7 +328,7 @@ _Beloved_ cont.
 _Benito Cereno_
 {{< tdclose >}}
 {{< tdopen >}}
-Melville, Herman. _Benito Cereno_. CreateSpace Independent Publishing Platform, 2016. ISBN: 9781536864175. \[Preview with {{% resource_link "ed05b8d2-483b-411c-803d-e02b0ae0c2e2" "Google Books" %}}\]
+Melville, Herman. _Benito Cereno_. CreateSpace Independent Publishing Platform, 2016. ISBN: 9781536864175. \[Preview with [Google Books](https://books.google.com/books?id=CmNiCwAAQBAJ&lpg=PP1&dq=editions%3ABqkt0FTeDsQC&pg=PP1#v=onepage&q&f=false)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +346,7 @@ Melville, Herman. _Benito Cereno_. CreateSpace Independent Publishing Platform, 
 "The Counterpane" & "The Monkey-Rope"
 {{< tdclose >}}
 {{< tdopen >}}
-Butler, Judith. "{{% resource_link "8aec3e57-109b-4117-b770-0d48333d2789" "Speaking of Rage and Grief" %}}." YouTube. 2014.
+Butler, Judith. "[Speaking of Rage and Grief](https://youtu.be/ZxyabzopQi8)." YouTube. 2014.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +358,7 @@ Butler, Judith. "{{% resource_link "8aec3e57-109b-4117-b770-0d48333d2789" "Speak
 "The Counterpane" & "The Monkey-Rope" cont.
 {{< tdclose >}}
 {{< tdopen >}}
-Melville, Herman. "{{% resource_link "1243d885-7f8e-4ade-9a33-2a788e9f874e" "The Counterpane" %}}" and "{{% resource_link "48f32bb6-8988-40db-a912-3deec01e7e8d" "The Monkey-Rope" %}}." In _Moby Dick_. Project Gutenberg EBook.
+Melville, Herman. "[The Counterpane](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm#link2HCH0004)" and "[The Monkey-Rope](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm#link2HCH0072)." In _Moby Dick_. Project Gutenberg EBook.
 {{< tdclose >}}
 
 {{< trclose >}}
