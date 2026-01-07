@@ -32,4 +32,4 @@ Illustrations, Bechdel says, “enabled me to move my text around on the page \[
 
 Paragraphs 1 & 2 are used with permission and courtesy of Dr. Sara E. Cooper and Rosa A. Martinez. Source:
 
-Cooper, Sara E. and Rosa A. Martinez. {{% resource_link "57a4aabd-d617-4cd9-8104-ee8229431e6a" "\"Fun Home: A Family Tragicomic\" Book Review" %}}. _Journal of Lesbian Studies_, Vol. 12, Issue 2-3, 2008.
+Cooper, Sara E. and Rosa A. Martinez. ["Fun Home: A Family Tragicomic" Book Review](http://www.tandfonline.com/doi/abs/10.1080/10894160802161521). _Journal of Lesbian Studies_, Vol. 12, Issue 2-3, 2008.
